@@ -1,3 +1,6 @@
+22M30675
+So Hattori
+
 # hpc_lecture
 
 |          | Topic                                | Sample code               |
